@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding:0;
+	position: relative;
+}
+body{
+	background-color: #444;
+}
+#gameboard_container{
+	padding: 2em;
+}
+#gameboard{
+	background-color: #ccc;	
+}
